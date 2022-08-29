@@ -1,3 +1,7 @@
+Print( "Josh" + "Josh")
+User=snoop
+Print("user:"+"snoop")
+
 # Compiled class file
 *.class
 
